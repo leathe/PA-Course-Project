@@ -1,10 +1,15 @@
 # PA-Course-Project
 Course project for Predictive Analytics course
 # Reading material:
+  # general
   - https://towardsdatascience.com/python-for-finance-stock-portfolio-analyses-6da4c3e61054
   - https://pandas-datareader.readthedocs.io/en/latest/remote_data.html#iex
   - https://ntguardian.wordpress.com/2016/09/19/introduction-stock-market-data-python-1/
+  # confusion matrix
   - https://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/
+  # backtesting
+  - https://www.quantstart.com/articles/backtesting-systematic-trading-strategies-in-python-considerations-and-open-source-frameworks
+  - https://machinelearningmastery.com/backtest-machine-learning-models-time-series-forecasting/
   
  # Project 2 Goals
  

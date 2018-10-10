@@ -32,8 +32,11 @@ https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0194889
 - numpy
 - math
 - pandas
-  - **from** pandas_datareader.data -- DataReader
+- pandas-datareader
+  - **from** pandas_datareader.data **import** DataReader
 - sklearn
-  - **from** sklearn.linear_model -- LinearRegression
-  - **from** sklearn.model_selection -- train_test_split
+  - **from** sklearn **import** preprocessing, svm
+  - **from** sklearn.linear_model **import** LinearRegression
+  - **from** sklearn.model_selection **import** train_test_split
 - matplotplib.pyplot
+  - **from** matplotlib **import** style

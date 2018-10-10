@@ -24,3 +24,17 @@ https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0194889
 • **Grade 4**: Calculate the quality of the decision by determining the return on investments (P/L account). Visualize in a graph how the P/L account changes over time. For this grade you may use a library for back - testing if you like.
 
 • **Grade +1**: Choose your own improved model or output. E.g. an ensemble, several outputs and so on. Use this in the above and compare the difference to a baseline.
+
+# Jupyter Notebook
+
+## packages:
+- datetime
+- numpy
+- math
+- 
+- pandas
+  - **from** pandas_datareader.data -- DataReader
+- sklearn
+  - **from** sklearn.linear_model -- LinearRegression
+  - **from** sklearn.model_selection -- train_test_split
+- matplotplib.pyplot

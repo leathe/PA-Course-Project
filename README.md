@@ -31,7 +31,6 @@ https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0194889
 - datetime
 - numpy
 - math
-- 
 - pandas
   - **from** pandas_datareader.data -- DataReader
 - sklearn

@@ -27,16 +27,16 @@ https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0194889
 
 # Jupyter Notebook
 
-## packages:
-- datetime
-- numpy
-- math
-- pandas
-- pandas-datareader
-  - **from** pandas_datareader.data **import** DataReader
-- sklearn
-  - **from** sklearn **import** preprocessing, svm
-  - **from** sklearn.linear_model **import** LinearRegression
-  - **from** sklearn.model_selection **import** train_test_split
-- matplotplib.pyplot
-  - **from** matplotlib **import** style
+## packages
+```python
+ import datetime as dt
+ import numpy as np
+ import pandas as pd
+ import datetime
+ import math
+ import matplotlib.pyplot as plt
+ from matplotlib import style
+ from sklearn.linear_model import LinearRegression
+ from sklearn.model_selection import cross_val_score, train_test_split
+ from sklearn import preprocessing, svm
+```
